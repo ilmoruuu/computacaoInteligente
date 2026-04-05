@@ -1,0 +1,2 @@
+# computacaoInteligente
+Algoritmos de Otimização 
